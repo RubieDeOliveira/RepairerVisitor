@@ -1,3 +1,5 @@
+package com.margo;
+
 import com.margo.Machine.CoffeeMachine;
 import com.margo.Machine.WasherMachine;
 import com.margo.Repairer.Repairer;
